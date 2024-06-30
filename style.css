@@ -1,0 +1,33 @@
+body {
+    background-color: #4b90a0;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+}
+
+.caption {
+    font-size: 20px;
+}
+
+.nav {
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    overflow: hidden;
+    padding: 8px;
+}
+
+.nav a {
+    color: white;
+}
+
+.nav a:hover {
+    background-color: #513f74;
+    font-style: italic;
+}
+
+.nav a:active {
+    font-style: italic;
+}
